@@ -8,5 +8,5 @@
   "locale": "vi_VN",
   "language": "javascript",
   "type": "comic",
-  "path": ""
+  "script": "https://raw.githubusercontent.com/lamphuchai-dev/ext-book/main/list-ext/net-truyen/src/net-truyen-ext.js"
 }

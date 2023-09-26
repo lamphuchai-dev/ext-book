@@ -3,15 +3,15 @@ export default class extends Extension {
     return [
       {
         title: "Mới cập nhật",
-        input: "/tim-truyen",
+        url: "/tim-truyen",
       },
       {
         title: "Truyện mới",
-        input: "/tim-truyen?status=-1&sort=15",
+        url: "/tim-truyen?status=-1&sort=15",
       },
       {
         title: "Top all",
-        input: "/tim-truyen?status=-1&sort=10",
+        url: "/tim-truyen?status=-1&sort=10",
       },
     ];
   }
